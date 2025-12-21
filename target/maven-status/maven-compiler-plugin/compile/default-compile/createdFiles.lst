@@ -1,0 +1,8 @@
+com\mycompany\jeuball\CompositeObstacle.class
+com\mycompany\jeuball\RectanglePlatform.class
+com\mycompany\jeuball\FlyingState.class
+com\mycompany\jeuball\Obstacle.class
+com\mycompany\jeuball\BalloonState.class
+com\mycompany\jeuball\RestingState.class
+com\mycompany\jeuball\Balloon.class
+com\mycompany\jeuball\GameObject.class
